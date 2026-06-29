@@ -69,6 +69,17 @@ Dear ImGuiを使用したGUI版クライアント
 3. Host に 127.0.0.1、Port に 50000 を入力する
 4. Connect ボタンを押して接続する
 
+## スクリーンショット
+
+<img width="959" height="563" alt="ChatSystem screenshot" src="https://github.com/user-attachments/assets/d2d1dfb8-b2b7-419c-8d2c-3da5ec5f8423" />
+
+## デモ動画
+
+チャットアプリケーションの動作デモです。
+サーバーの起動から接続、メッセージ送受信までを確認できます。
+
+▶ https://youtu.be/hf4_q-mVMmk
+
 ## 今後の改良予定
 - サーバーGUI化
 - チャットログ保存
